@@ -1,4 +1,4 @@
-# Application
+# Parking Lot Application
 
 ## Structure
 
